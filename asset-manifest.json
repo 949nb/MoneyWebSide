@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MoneyWebSide/static/css/main.19e89061.chunk.css",
+    "main.js": "/MoneyWebSide/static/js/main.621327a6.chunk.js",
+    "main.js.map": "/MoneyWebSide/static/js/main.621327a6.chunk.js.map",
+    "runtime-main.js": "/MoneyWebSide/static/js/runtime-main.4521133d.js",
+    "runtime-main.js.map": "/MoneyWebSide/static/js/runtime-main.4521133d.js.map",
+    "static/js/2.8c7d22a5.chunk.js": "/MoneyWebSide/static/js/2.8c7d22a5.chunk.js",
+    "static/js/2.8c7d22a5.chunk.js.map": "/MoneyWebSide/static/js/2.8c7d22a5.chunk.js.map",
+    "index.html": "/MoneyWebSide/index.html",
+    "static/css/main.19e89061.chunk.css.map": "/MoneyWebSide/static/css/main.19e89061.chunk.css.map",
+    "static/js/2.8c7d22a5.chunk.js.LICENSE.txt": "/MoneyWebSide/static/js/2.8c7d22a5.chunk.js.LICENSE.txt",
+    "static/media/list.d559f765.svg": "/MoneyWebSide/static/media/list.d559f765.svg",
+    "static/media/money.d0b6003e.svg": "/MoneyWebSide/static/media/money.d0b6003e.svg",
+    "static/media/right.560d174c.svg": "/MoneyWebSide/static/media/right.560d174c.svg",
+    "static/media/tags.01bea9e8.svg": "/MoneyWebSide/static/media/tags.01bea9e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4521133d.js",
+    "static/js/2.8c7d22a5.chunk.js",
+    "static/css/main.19e89061.chunk.css",
+    "static/js/main.621327a6.chunk.js"
+  ]
+}
